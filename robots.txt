@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calcora.github.io/sitemap.xml
+Sitemap: https://mvlaza512-collab.github.io/calcora.github.io/sitemap.xml
